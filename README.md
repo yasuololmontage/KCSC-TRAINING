@@ -1,1 +1,0 @@
-# KSCS-TRAINING
