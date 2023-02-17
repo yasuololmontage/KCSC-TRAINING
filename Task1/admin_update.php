@@ -54,7 +54,7 @@
     </tr>
     <form action="admin_update.php" method="post">
         <?php 
-            $usrname = $_SESSION['username'];
+            $usrname = $_GET['username'];
             $sqli = "SELECT * FROM `task 1` WHERE `username` = '$usrname'";
             $query = mysqli_query($conn, $sqli);
             $row = mysqli_fetch_assoc($query);
