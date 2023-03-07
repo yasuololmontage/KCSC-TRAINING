@@ -1,4 +1,4 @@
-# TASK 1 - LOGIN/LOGOUT/SIGN UP WEB
+# TASK 2 - LOGIN/LOGOUT/SIGN UP WEB
 
 - Đây là bài làm của em thực hiện yêu cầu: Xây dựng 1 website có tính năng đăng kí/đăng nhập/đăng xuất và quản lý thông tin người dùng có thể thêm/sửa/xóa thông tin như email, số điện thoại, địa chỉ, giới tính (yêu cầu có ít nhất 1 admin và 2 người dùng thường, người dùng thường chỉ có thể thay đổi thông tin của bản thân), code bằng ngôn ngữ bất kì và yêu cầu sử dụng 1 trong các cơ sở dữ liệu như SQLite, MySQL, PostgreSQL,...
 - Em đã sử dụng PHP, HTML và SQLi để tạo trang web trên, với các chức năng đăng kí, đăng nhập, sửa, xóa tài khoản của bản thân cho người dùng và quyền xóa, sửa, thêm người dùng cho admin.
