@@ -4,7 +4,7 @@
 ?>
 
         <section class="index-intro">
-            <h1>
+            <h1 style>
                 Hi there<?php echo (isset($_SESSION['username'])) ? ", ".$_SESSION['username'] . "!!": ""; ?>
             </h1>
         </section>
